@@ -29,8 +29,12 @@ Supported distributions:
 Download and execute the script. Answer the questions asked by the script and it will take care of the rest.
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/P4ll/wireguard-install/master/wireguard-install.sh
+```
+```bash
 chmod +x wireguard-install.sh
+```
+```bash
 ./wireguard-install.sh
 ```
 
